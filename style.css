@@ -1,0 +1,118 @@
+nav	{
+
+	
+
+}
+
+li {
+
+	padding: 3px;
+	margin: 3px;
+
+}
+
+header {
+	background-color: grey;
+	color: blue;
+	font-size: 20px;
+	;
+
+}
+
+#header-text {
+	background-image: url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80);
+	background-size: cover;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	
+
+
+
+}
+
+
+h1 {
+
+	margin: 0px;
+
+}
+
+
+h2{
+
+	margin: 0px;
+	
+}
+
+ul{
+
+	margin: 3px;
+	list-style: none;
+	display: flex;
+	justify-content: flex;
+}
+
+nav {
+
+	background-color: white;
+
+
+}
+
+body {
+	background-color: lightgrey;
+	color: white;
+}
+
+
+#images {
+			
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+}
+
+.photospageimage{
+
+	width: 100%;
+	max-width: 600px;
+  	height: auto;
+  	margin: 20px;
+  	padding: 10px;
+
+}
+
+footer {
+	background-color: grey;
+	color: white;
+
+
+}
+
+#usefulwebsites {
+
+	padding: 10px;
+	margin-bottom: 200px;
+
+
+} 
+
+#videos {
+
+	width: 100%;
+	max-width: 500px;
+  	height: auto;
+  	margin: 20px;
+  	padding: 10px;
+}
+
+#headerimage {
+
+	width: 30px;
+	width: 50px;
+  	height: auto;
+  	margin: 0px;
+  	padding: 0px;
+
+}
